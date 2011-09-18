@@ -4,6 +4,7 @@
 #
 
 ifeq ($(strip $(BOARD_USES_ALSA_AUDIO)),true)
+ifneq ($(strip $(BOARD_PROVIDES_LIBAUDIO)),true)
 
   LOCAL_PATH := $(call my-dir)
 
@@ -114,4 +115,5 @@ endif
 
   include $(BUILD_SHARED_LIBRARY)
 
+endif
 endif
