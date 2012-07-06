@@ -1,0 +1,10 @@
+Change-Id: Icacc9dca69269441b8f61b26a105dc29eba5b506
+Code-Review+1: Edvard Holst <edvard.holst@gmail.com>
+Code-Review+2: Ethan Chen <intervigil@gmail.com>
+Verified+1: Ethan Chen <intervigil@gmail.com>
+Code-Review+1: Konstantin Koslowski <konstantin.koslowski@gmail.com>
+Submitted-by: Ethan Chen <intervigil@gmail.com>
+Submitted-at: Sat, 07 Jul 2012 01:10:59 +0400
+Reviewed-on: http://review.cyanogenmod.com/18363
+Project: CyanogenMod/android_hardware_alsa_sound
+Branch: refs/heads/ics
