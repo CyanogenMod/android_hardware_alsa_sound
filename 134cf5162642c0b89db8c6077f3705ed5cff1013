@@ -1,0 +1,9 @@
+Change-Id: Ia63b863294b2d344d66bab190635f8cca25ad919
+Code-Review+2: Steve Kondik <shade@chemlab.org>
+Verified+1: Steve Kondik <shade@chemlab.org>
+Code-Review+1: Jacob Rigby <jacobcrigby@gmail.com>
+Submitted-by: Steve Kondik <shade@chemlab.org>
+Submitted-at: Mon, 09 Jul 2012 09:41:25 +0400
+Reviewed-on: http://review.cyanogenmod.com/18203
+Project: CyanogenMod/android_hardware_alsa_sound
+Branch: refs/heads/ics
